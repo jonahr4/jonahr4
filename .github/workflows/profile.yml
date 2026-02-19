@@ -1,0 +1,22 @@
+name: Update Profile Sections
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Update recent activity
+        uses: Readme-Workflows/recent-activity@v2
+        with:
+          GH_USERNAME: jonahr4
+
+      - name: Update recent repos
+        uses: anmol098/waka-readme-stats@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
