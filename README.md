@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hey, I’m Jonah 👋
 
-<!--
-**jonahr4/jonahr4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CS @ Boston University (B.A. + M.S. BAMS).  
+Building full-stack apps and backend systems.  
+Focused on shipping products and mastering system design.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Recently Active Repositories
+
+<!--START_SECTION:recent_repos-->
+<!--END_SECTION:recent_repos-->
+
+---
+
+## 🔨 Recent Pull Requests
+
+<!--START_SECTION:pull_requests-->
+<!--END_SECTION:pull_requests-->
+
+---
+
+## 📊 GitHub Stats
+
+![Jonah's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonahr4&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonahr4&layout=compact&theme=tokyonight)
