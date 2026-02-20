@@ -8,18 +8,18 @@ Recently focused on building real-world projects across web development, mobile 
 <!-- All rows in one table for consistent column alignment and scaling -->
 <table align="center" border="0" cellspacing="0" cellpadding="10">
   <tr>
-    <td valign="middle" width="328">
-      <img width="328" src="./profile/stats.svg" />
+    <td valign="middle" width="46%">
+      <img width="100%" src="./profile/stats.svg" />
     </td>
-    <td valign="middle" width="385">
-      <img width="385" src="https://github-readme-activity-graph.vercel.app/graph?username=jonahr4&bg_color=282c34&color=abb2bf&line=e5c17c&point=e06c75&area=true&hide_border=true" />
+    <td valign="middle" width="54%">
+      <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=jonahr4&bg_color=282c34&color=abb2bf&line=e5c17c&point=e06c75&area=true&hide_border=true" />
     </td>
   </tr>
   <tr>
-    <td valign="middle" width="328">
-      <img width="328" src="./profile/top-langs.svg" />
+    <td valign="middle" width="46%">
+      <img width="100%" src="./profile/top-langs.svg" />
     </td>
-    <td valign="middle" align="center" width="385">
+    <td valign="middle" align="center" width="54%">
       <a href="https://developer.android.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/></a>
       <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/></a>
       <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/></a>
